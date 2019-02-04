@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/lsantanna87/gomodules/redis"
 	"github.com/mediocregopher/radix/v3"
+	"github.com/receptiviti/jedi-academy/gomodules/redis"
 )
 
 func main() {
